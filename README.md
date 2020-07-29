@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Immagini/Logo-Bicocca.png"/>
+<img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/Logo-Bicocca.png"/>
 </p>
 
 # Advise Only
@@ -59,9 +59,9 @@ Per rispondere alle domande di analaisi si è preso in considerazione il dataset
     - Magistrale: Data Science | Università degli Studi di Milano-Bicocca;
 
 <center>
-  <a href = "https://www.linkedin.com/in/alberto-filosa-31408/"><img src="Immagini/linkedin.png" width = "2%"></a>
-  <a href = "https://www.kaggle.com/albi9702"><img src="Immagini/kaggle.jpg" width = "2%"></a>
-  <a href = "https://github.com/albi9702"><img src="Immagini/github.png" width = "2%"></a>
+  <a href = "https://www.linkedin.com/in/alberto-filosa-31408/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a>
+  <a href = "https://www.kaggle.com/albi9702"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/kaggle.jpg" width = "2%"></a>
+  <a href = "https://github.com/albi9702"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/github.png" width = "2%"></a>
 </center>
 
 - Davide Garavaldi:
@@ -69,5 +69,5 @@ Per rispondere alle domande di analaisi si è preso in considerazione il dataset
     - Magistrale: Data Science | Università degli Studi di Milano-Bicocca;
 
 <center>
-  <a href = "https://www.linkedin.com/in/davide-garavaldi-ba9487195/"><img src="Immagini/linkedin.png" width = "2%"></a>
+  <a href = "https://www.linkedin.com/in/davide-garavaldi-ba9487195/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a>
 </center>
